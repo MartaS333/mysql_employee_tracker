@@ -21,7 +21,7 @@ A CMS-style blog site similar to a Wordpress site, where developers can publish 
 ### Demo
 
 Video Demo [click here](https://drive.google.com/file/d/1JSnKlvSlvMAlENsvjbK4pZZEAEySpirV/view)
-![Screenshot](https://github.com/MartaS333/tech_blog_MVC/blob/main/assets/tech-blog.png)
+![Screenshot](https://github.com/MartaS333/mysql_employee_tracker/blob/main/assets/screenshot.png)
 
 ### Installation
 
